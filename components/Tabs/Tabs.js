@@ -59,4 +59,4 @@ class TabItem {
 
 */
 
-links = document.querySelectorAll();
+// uncomment later !!!!! links = document.querySelectorAll();
